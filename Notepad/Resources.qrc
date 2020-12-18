@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>C:/Users/PRASHANTH S/Downloads/Icons/Copy.bmp</file>
+        <file>C:/Users/PRASHANTH S/Downloads/Icons/Cut.bmp</file>
+        <file>C:/Users/PRASHANTH S/Downloads/Icons/DeleteSticky.bmp</file>
+        <file>C:/Users/PRASHANTH S/Downloads/Icons/New.bmp</file>
+        <file>C:/Users/PRASHANTH S/Downloads/Icons/Open.bmp</file>
+        <file>C:/Users/PRASHANTH S/Downloads/Icons/Paste.bmp</file>
+        <file>C:/Users/PRASHANTH S/Downloads/Icons/Save.bmp</file>
+        <file>C:/Users/PRASHANTH S/Downloads/Icons/Avosoft-Warm-Toolbar-Print.ico</file>
+        <file>C:/Users/PRASHANTH S/Downloads/Icons/Redo-2-512.png</file>
+        <file>C:/Users/PRASHANTH S/Downloads/Icons/Undo-2-512.webp</file>
+        <file>notepad.png</file>
+    </qresource>
+</RCC>
